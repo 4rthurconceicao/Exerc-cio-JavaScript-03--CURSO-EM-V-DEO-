@@ -1,6 +1,8 @@
 # Exercício JavaScript 03 (CURSO EM VÍDEO)
  Exercício feito durante o curso de JavaScritp
-
+ 
+ teste voce mesmo (https://4rthurconceicao.github.io/Exerc-cio_JavaScript_03_CURSO_EM_VIDEO/)
+ 
  Nesse exercício fizemos um script que e uma contador numero o usuario vai escolher o começo e o fim da contagem e também vai dercidi de
  quanto em quanto vai ser a contagem exemplo abaixo.
  
